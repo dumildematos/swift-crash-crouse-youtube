@@ -4,6 +4,30 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+<<<<<<< refs/remotes/origin/master
+=======
+		<key>Closures (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>5</integer>
+		</dict>
+		<key>Closures (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>6</integer>
+		</dict>
+		<key>Closures (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+>>>>>>> Understanding functions
 		<key>Functions (Playground) 1.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -23,7 +47,11 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
+<<<<<<< refs/remotes/origin/master
 			<integer>3</integer>
+=======
+			<integer>0</integer>
+>>>>>>> Understanding functions
 		</dict>
 		<key>If-Else (Playground) 1.xcscheme</key>
 		<dict>
@@ -44,7 +72,11 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
+<<<<<<< refs/remotes/origin/master
 			<integer>0</integer>
+=======
+			<integer>1</integer>
+>>>>>>> Understanding functions
 		</dict>
 		<key>Operators (Playground) 1.xcscheme</key>
 		<dict>
@@ -65,7 +97,11 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
+<<<<<<< refs/remotes/origin/master
 			<integer>1</integer>
+=======
+			<integer>2</integer>
+>>>>>>> Understanding functions
 		</dict>
 		<key>Variables (Playground) 1.xcscheme</key>
 		<dict>
@@ -86,7 +122,11 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
+<<<<<<< refs/remotes/origin/master
 			<integer>2</integer>
+=======
+			<integer>3</integer>
+>>>>>>> Understanding functions
 		</dict>
 	</dict>
 </dict>
